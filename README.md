@@ -8,4 +8,5 @@ and climate modeling.
 - [OCW Page](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/)
 - [Course Materials](https://computationalthinking.mit.edu/Fall20/)
 - [Lectures](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ)
+- [Assignments, lecture notes, scaffold code](https://github.com/mitmath/18S191) (all homework assignments are first copied from this repository before completion)
 
